@@ -1,0 +1,16 @@
+{
+  "swaggerFile": "./swagger.json",
+  "getSwaggerFromClient": false,
+  "modelNamespace": "MyNamespace.Models",
+  "interfaceNamespace": "MyNamespace.Interfaces",
+  "generationUtilsFullName": "MyNamespace.GenerationUtils",
+  "interfaceOutFolder": "../Interfaces",
+  "modelOutFolder": "../Models",
+  "classVisibility": "public",
+  "useProperties": true,
+  "includeEndpoints": null,
+  "excludeEndpoints": null,
+  "generateXmlDocs": true,
+  "addAttributeToParameters": true,
+  "addAttributeToMethods": true
+}
