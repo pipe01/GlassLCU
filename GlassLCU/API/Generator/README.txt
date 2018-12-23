@@ -1,1 +1,0 @@
-Here's where the LCU API generator (https://www.github.com/pipe01/lcu-api-generator) is supposed to go. You don't need to configure anything, as the config file is already in place. Put a binary here and run it.

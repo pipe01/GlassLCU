@@ -1,0 +1,6 @@
+*
+!.gitignore
+!config.json
+!README.txt
+!*.ps1
+temp/**/*
