@@ -1,9 +1,9 @@
 {
   "swaggerFile": "./swagger.json",
   "getSwaggerFromClient": false,
-  "modelNamespace": "MyNamespace.Models",
-  "interfaceNamespace": "MyNamespace.Interfaces",
-  "generationUtilsFullName": "MyNamespace.GenerationUtils",
+  "modelNamespace": "GlassLCU.API.Models",
+  "interfaceNamespace": "GlassLCU.API.Interfaces",
+  "generationUtilsFullName": "GlassLCU.API.GenerationUtils",
   "interfaceOutFolder": "../Interfaces",
   "modelOutFolder": "../Models",
   "classVisibility": "public",
@@ -12,5 +12,6 @@
   "excludeEndpoints": null,
   "generateXmlDocs": true,
   "addAttributeToParameters": true,
-  "addAttributeToMethods": true
+  "addAttributeToMethods": true,
+  "onlyIncludeReferencedModels": true
 }
